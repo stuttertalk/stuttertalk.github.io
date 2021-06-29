@@ -1,0 +1,48 @@
+{
+  "buttons": [
+    {
+      "id": 1,
+      "label": "bed",
+      "load_board": {
+        "id": "bed",
+        "path": "obfs/bed.obf"
+      },
+      "image_path": "images/bed.png"
+    },
+    {
+      "id": 2,
+      "label": "chair",
+      "load_board": {
+        "id": "chair",
+        "path": "obfs/chair.obf"
+      },
+      "image_path": "images/chair.png"
+    },
+    {
+      "id": 3,
+      "label": "closet",
+      "load_board": {
+        "id": "closet",
+        "path": "obfs/closet.obf"
+      },
+      "image_path": "images/closet.png"
+    },
+    {
+      "id": 4,
+      "label": "sofa",
+      "load_board": {
+        "id": "sofa",
+        "path": "obfs/sofa.obf"
+      },
+      "image_path": "images/sofa.png"
+    }
+  ],
+  "grid": {
+    "rows": 2,
+    "columns": 2,
+    "order": [[1, 2], [3, 4]]
+  },
+  "locale": "en",
+  "default_layout": "landscape",
+  "name": "AAC photo"
+}

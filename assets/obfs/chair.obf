@@ -1,0 +1,131 @@
+{
+  "format": "open-board-0.1",
+  "license": {
+    "type": "CC By",
+    "copyright_notice_url": "http://creativecommons.org/licenses/by/4.0/",
+    "author_name": "CoughDrop",
+    "author_url": "https://www.mycoughdrop.com/example"
+  },
+  "buttons": [
+    {
+      "id": 1,
+      "label": "1",
+      "border_color": "rgb(221, 221, 0)",
+      "background_color": "rgb(255, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/chair/1.webp"
+    },
+    {
+      "id": 2,
+      "label": "2",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/chair/2.webp"
+    },
+    {
+      "id": 3,
+      "label": "3",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/chair/3.webp"
+    },
+    {
+      "id": 4,
+      "label": "4",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/chair/4.webp"
+    },
+    {
+      "id": 5,
+      "label": "5",
+      "border_color": "rgb(221, 221, 0)",
+      "background_color": "rgb(255, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/chair/5.webp"
+    },
+    {
+      "id": 6,
+      "label": "6",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/chair/6.webp"
+    },
+    {
+      "id": 7,
+      "label": "7",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/chair/7.webp"
+    },
+    {
+      "id": 8,
+      "label": "8",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/chair/8.webp"
+    },
+    {
+      "id": 9,
+      "label": "9",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/chair/9.webp"
+    },
+    {
+      "id": 10,
+      "label": "10",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/chair/10.webp"
+    }
+  ],
+  "grid": {
+    "rows": 2,
+    "columns": 5,
+    "order": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  "sounds": [
+
+  ],
+  "id": "chair",
+  "locale": "en",
+  "name": "chair",
+  "default_layout": "landscape",
+  "url": "",
+  "data_url": "",
+  "description_html": "",
+  "ext_coughdrop_settings": {
+    "private": false,
+    "key": "",
+    "word_suggestions": false,
+    "protected": false,
+    "home_board": true,
+    "categories": [
+      "robust"
+    ]
+  }
+}
