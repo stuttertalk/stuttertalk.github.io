@@ -1,0 +1,163 @@
+{
+  "format": "open-board-0.1",
+  "license": {
+    "type": "CC By",
+    "copyright_notice_url": "http://creativecommons.org/licenses/by/4.0/",
+    "author_name": "CoughDrop",
+    "author_url": "https://www.mycoughdrop.com/example"
+  },
+  "buttons": [
+    {
+      "id": 1,
+      "label": "Blender",
+      "border_color": "rgb(221, 221, 0)",
+      "background_color": "rgb(255, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/blender.jpg"
+    },
+    {
+      "id": 2,
+      "label": "Dish washer",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/dishwasher.jpg"
+    },
+    {
+      "id": 3,
+      "label": "Food processor",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/food_processor.jpg"
+    },
+    {
+      "id": 4,
+      "label": "Frige",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/frige.jpg"
+    },
+    {
+      "id": 5,
+      "label": "Hair drier",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/hair_drier.jpg"
+    },
+    {
+      "id": 6,
+      "label": "Microwave",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/microwave.jpg"
+    },
+    {
+      "id": 7,
+      "label": "Mixer",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/mixer.jpg"
+    },
+    {
+      "id": 8,
+      "label": "Oven",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/oven.jpg"
+    },
+    {
+      "id": 9,
+      "label": "Rice cooker",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/rice_cooker.jpg"
+    },
+    {
+      "id": 10,
+      "label": "Slow cooker",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/slow_cooker.jpg"
+    },
+    {
+      "id": 11,
+      "label": "Toaster",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/toaster.jpg"
+    },
+    {
+      "id": 12,
+      "label": "TV",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/tv.jpg"
+    },
+    {
+      "id": 13,
+      "label": "Vacumm",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/vacumm.jpg"
+    },
+    {
+      "id": 14,
+      "label": "Washer and Dryer",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/appliances/washer_dryer.jpg"
+    }
+  ],
+  "grid": {
+    "rows": 2,
+    "columns": 5,
+    "order": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  "sounds": [
+
+  ],
+  "id": "appliances",
+  "locale": "en",
+  "name": "Appliances",
+  "default_layout": "landscape",
+  "url": "",
+  "data_url": "",
+  "description_html": "",
+  "ext_coughdrop_settings": {
+    "private": false,
+    "key": "",
+    "word_suggestions": false,
+    "protected": false,
+    "home_board": true,
+    "categories": [
+      "robust"
+    ]
+  }
+}

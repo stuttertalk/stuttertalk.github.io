@@ -2,39 +2,23 @@
   "buttons": [
     {
       "id": 1,
-      "label": "bed",
+      "label": "fruits_vege",
       "load_board": {
-        "id": "bed",
-        "path": "obfs/bed.obf"
+        "id": "fruits_vege",
+        "path": "obfs/fruits_vege.obf"
       },
-      "image_path": "images/bed.png"
+      "image_path": "images/fruits_vege.png",
+      "description": "fruits & vegetables"
     },
     {
       "id": 2,
-      "label": "chair",
+      "label": "appliances",
       "load_board": {
-        "id": "chair",
-        "path": "obfs/chair.obf"
+        "id": "appliances",
+        "path": "obfs/appliances.obf"
       },
-      "image_path": "images/chair.png"
-    },
-    {
-      "id": 3,
-      "label": "closet",
-      "load_board": {
-        "id": "closet",
-        "path": "obfs/closet.obf"
-      },
-      "image_path": "images/closet.png"
-    },
-    {
-      "id": 4,
-      "label": "sofa",
-      "load_board": {
-        "id": "sofa",
-        "path": "obfs/sofa.obf"
-      },
-      "image_path": "images/sofa.png"
+      "image_path": "images/appliances.png",
+      "description": "appliances"
     }
   ],
   "grid": {

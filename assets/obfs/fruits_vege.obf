@@ -1,0 +1,171 @@
+{
+  "format": "open-board-0.1",
+  "license": {
+    "type": "CC By",
+    "copyright_notice_url": "http://creativecommons.org/licenses/by/4.0/",
+    "author_name": "CoughDrop",
+    "author_url": "https://www.mycoughdrop.com/example"
+  },
+  "buttons": [
+    {
+      "id": 1,
+      "label": "Asparagus",
+      "border_color": "rgb(221, 221, 0)",
+      "background_color": "rgb(255, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/asparagus.jpg"
+    },
+    {
+      "id": 2,
+      "label": "Avocado",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/avocado.jpg"
+    },
+    {
+      "id": 3,
+      "label": "Carrots",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/carrots.jpg"
+    },
+    {
+      "id": 4,
+      "label": "Cauliflower",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/cauliflower.jpg"
+    },
+    {
+      "id": 5,
+      "label": "Celery",
+      "border_color": "rgb(221, 221, 0)",
+      "background_color": "rgb(255, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/celery.jpg"
+    },
+    {
+      "id": 6,
+      "label": "Clementine",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/clementine.jpg"
+    },
+    {
+      "id": 7,
+      "label": "Corn",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/corn.jpg"
+    },
+    {
+      "id": 8,
+      "label": "Garlic",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/garlic.jpg"
+    },
+    {
+      "id": 9,
+      "label": "Lime",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/lime.jpg"
+    },
+    {
+      "id": 10,
+      "label": "Mango",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/mango.jpg"
+    },
+    {
+      "id": 11,
+      "label": "Papaya",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/papaya.jpg"
+    },
+    {
+      "id": 12,
+      "label": "Pineapple",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/pineapple.jpg"
+    },
+    {
+      "id": 13,
+      "label": "Potato",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/potato.jpg"
+    },
+    {
+      "id": 14,
+      "label": "Star fruit",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/star_fruit.jpg"
+    },
+    {
+      "id": 15,
+      "label": "Tomato",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/fruits_vege/tomato.jpg"
+    }
+  ],
+  "grid": {
+    "rows": 2,
+    "columns": 5,
+    "order": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  "sounds": [
+
+  ],
+  "id": "fruits_vege",
+  "locale": "en",
+  "name": "Fruits and vegetables",
+  "default_layout": "landscape",
+  "url": "",
+  "data_url": "",
+  "description_html": "",
+  "ext_coughdrop_settings": {
+    "private": false,
+    "key": "",
+    "word_suggestions": false,
+    "protected": false,
+    "home_board": true,
+    "categories": [
+      "robust"
+    ]
+  }
+}
