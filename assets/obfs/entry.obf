@@ -2,23 +2,53 @@
   "buttons": [
     {
       "id": 1,
-      "label": "fruits_vege",
+      "label": "蔬菜水果",
       "load_board": {
         "id": "fruits_vege",
         "path": "obfs/fruits_vege.obf"
       },
       "image_path": "images/fruits_vege.png",
-      "description": "fruits & vegetables"
+      "description": "蔬菜水果"
     },
     {
       "id": 2,
-      "label": "appliances",
+      "label": "家用电器",
       "load_board": {
         "id": "appliances",
         "path": "obfs/appliances.obf"
       },
       "image_path": "images/appliances.png",
-      "description": "appliances"
+      "description": "家用电器"
+    },
+    {
+      "id": 3,
+      "label": "交通工具",
+      "load_board": {
+        "id": "transport",
+        "path": "obfs/transport.obf"
+      },
+      "image_path": "images/transport.png",
+      "description": "交通工具"
+    },
+    {
+      "id": 4,
+      "label": "生活用品",
+      "load_board": {
+        "id": "daily_necessities",
+        "path": "obfs/daily_necessities.obf"
+      },
+      "image_path": "images/daily_necessities.jpg",
+      "description": "生活用品"
+    },
+    {
+      "id": 5,
+      "label": "职业",
+      "load_board": {
+        "id": "profession",
+        "path": "obfs/profession.obf"
+      },
+      "image_path": "images/profession.png",
+      "description": "职业"
     }
   ],
   "grid": {
@@ -26,7 +56,7 @@
     "columns": 2,
     "order": [[1, 2], [3, 4]]
   },
-  "locale": "en",
+  "locale": "zh",
   "default_layout": "landscape",
-  "name": "AAC photo"
+  "name": "图片类别"
 }

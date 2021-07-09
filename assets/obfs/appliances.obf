@@ -9,7 +9,7 @@
   "buttons": [
     {
       "id": 1,
-      "label": "Blender",
+      "label": "打碎机/果汁机",
       "border_color": "rgb(221, 221, 0)",
       "background_color": "rgb(255, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -17,7 +17,7 @@
     },
     {
       "id": 2,
-      "label": "Dish washer",
+      "label": "洗碗机",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -25,7 +25,7 @@
     },
     {
       "id": 3,
-      "label": "Food processor",
+      "label": "食品加工机",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -33,7 +33,7 @@
     },
     {
       "id": 4,
-      "label": "Frige",
+      "label": "冰箱",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -41,7 +41,7 @@
     },
     {
       "id": 5,
-      "label": "Hair drier",
+      "label": "吹风机",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -49,7 +49,7 @@
     },
     {
       "id": 6,
-      "label": "Microwave",
+      "label": "微波炉",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -57,7 +57,7 @@
     },
     {
       "id": 7,
-      "label": "Mixer",
+      "label": "搅拌机",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -65,7 +65,7 @@
     },
     {
       "id": 8,
-      "label": "Oven",
+      "label": "烤箱",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -73,7 +73,7 @@
     },
     {
       "id": 9,
-      "label": "Rice cooker",
+      "label": "电饭煲",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -81,7 +81,7 @@
     },
     {
       "id": 10,
-      "label": "Slow cooker",
+      "label": "慢炖锅",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -89,7 +89,7 @@
     },
     {
       "id": 11,
-      "label": "Toaster",
+      "label": "烤面包机",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -97,7 +97,7 @@
     },
     {
       "id": 12,
-      "label": "TV",
+      "label": "电视",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -105,7 +105,7 @@
     },
     {
       "id": 13,
-      "label": "Vacumm",
+      "label": "吸尘器",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -113,7 +113,7 @@
     },
     {
       "id": 14,
-      "label": "Washer and Dryer",
+      "label": "洗衣机和烘干机",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
@@ -144,8 +144,8 @@
 
   ],
   "id": "appliances",
-  "locale": "en",
-  "name": "Appliances",
+  "locale": "zh",
+  "name": "家用电器",
   "default_layout": "landscape",
   "url": "",
   "data_url": "",

@@ -9,123 +9,155 @@
   "buttons": [
     {
       "id": 1,
-      "label": "芦笋",
+      "label": "教师",
       "border_color": "rgb(221, 221, 0)",
       "background_color": "rgb(255, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/asparagus.jpg"
+      "image_path": "images/profession/teacher.jpg"
     },
     {
       "id": 2,
-      "label": "牛油果",
+      "label": "设计师",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/avocado.jpg"
+      "image_path": "images/profession/designer.jpg"
     },
     {
       "id": 3,
-      "label": "胡萝卜",
+      "label": "厨师",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/carrots.jpg"
+      "image_path": "images/profession/cooker.jpg"
     },
     {
       "id": 4,
-      "label": "菜花",
+      "label": "摄影师",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/cauliflower.jpg"
+      "image_path": "images/profession/photographer.jpg"
     },
     {
       "id": 5,
-      "label": "芹菜",
-      "border_color": "rgb(221, 221, 0)",
-      "background_color": "rgb(255, 255, 170)",
+      "label": "美发师",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/celery.jpg"
+      "image_path": "images/profession/hairdresser.jpg"
     },
     {
       "id": 6,
-      "label": "桔子",
+      "label": "演员",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/clementine.jpg"
+      "image_path": "images/profession/actor.jpg"
     },
     {
       "id": 7,
-      "label": "玉米",
+      "label": "农名",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/corn.jpg"
+      "image_path": "images/profession/farmer.jpg"
     },
     {
       "id": 8,
-      "label": "大蒜",
+      "label": "渔夫",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/garlic.jpg"
+      "image_path": "images/profession/fisherman.jpg"
     },
     {
       "id": 9,
-      "label": "柠檬",
+      "label": "宇航员",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/lime.jpg"
+      "image_path": "images/profession/astronaut.jpg"
     },
     {
       "id": 10,
-      "label": "芒果",
+      "label": "医生",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/mango.jpg"
+      "image_path": "images/profession/doctor.jpg"
     },
     {
       "id": 11,
-      "label": "木瓜",
+      "label": "护士",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/papaya.jpg"
+      "image_path": "images/profession/nurse.jpg"
     },
     {
       "id": 12,
-      "label": "菠萝",
+      "label": "司机",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/pineapple.jpg"
+      "image_path": "images/profession/driver.jpg"
     },
     {
       "id": 13,
-      "label": "土豆",
+      "label": "记者",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/potato.jpg"
+      "image_path": "images/profession/journalist.jpg"
     },
     {
       "id": 14,
-      "label": "杨桃",
+      "label": "法官",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/star_fruit.jpg"
+      "image_path": "images/profession/judge.jpg"
     },
     {
       "id": 15,
-      "label": "番茄/西红柿",
+      "label": "律师",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/tomato.jpg"
+      "image_path": "images/profession/lawyer.jpg"
+    },
+    {
+      "id": 16,
+      "label": "警察",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/profession/police.jpg"
+    },
+    {
+      "id": 17,
+      "label": "快递员",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/profession/courier.jpg"
+    },
+    {
+      "id": 18,
+      "label": "科学家",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/profession/scientist.jpg"
+    },
+    {
+      "id": 19,
+      "label": "作家",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/profession/writer.jpg"
     }
   ],
   "grid": {
@@ -151,9 +183,9 @@
   "sounds": [
 
   ],
-  "id": "fruits_vege",
-  "locale": "en",
-  "name": "蔬菜水果",
+  "id": "profession",
+  "locale": "zh",
+  "name": "职业",
   "default_layout": "landscape",
   "url": "",
   "data_url": "",

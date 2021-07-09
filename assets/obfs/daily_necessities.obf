@@ -9,123 +9,163 @@
   "buttons": [
     {
       "id": 1,
-      "label": "芦笋",
+      "label": "牙刷",
       "border_color": "rgb(221, 221, 0)",
       "background_color": "rgb(255, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/asparagus.jpg"
+      "image_path": "images/daily_necessities/tooth_brush.jpg"
     },
     {
       "id": 2,
-      "label": "牛油果",
+      "label": "牙膏",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/avocado.jpg"
+      "image_path": "images/daily_necessities/tooth_paste.jpg"
     },
     {
       "id": 3,
-      "label": "胡萝卜",
+      "label": "洗面奶",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/carrots.jpg"
+      "image_path": "images/daily_necessities/face_wash.jpg"
     },
     {
       "id": 4,
-      "label": "菜花",
+      "label": "洗发水",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/cauliflower.jpg"
+      "image_path": "images/daily_necessities/hair_wash.jpg"
     },
     {
       "id": 5,
-      "label": "芹菜",
-      "border_color": "rgb(221, 221, 0)",
-      "background_color": "rgb(255, 255, 170)",
+      "label": "沐浴露",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/celery.jpg"
+      "image_path": "images/daily_necessities/shower.jpg"
     },
     {
       "id": 6,
-      "label": "桔子",
+      "label": "香皂",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/clementine.jpg"
+      "image_path": "images/daily_necessities/soap.jpg"
     },
     {
       "id": 7,
-      "label": "玉米",
+      "label": "洗衣粉",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/corn.jpg"
+      "image_path": "images/daily_necessities/detergent.jpg"
     },
     {
       "id": 8,
-      "label": "大蒜",
+      "label": "毛巾",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/garlic.jpg"
+      "image_path": "images/daily_necessities/towel.jpg"
     },
     {
       "id": 9,
-      "label": "柠檬",
+      "label": "枕头",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/lime.jpg"
+      "image_path": "images/daily_necessities/pillow.jpg"
     },
     {
       "id": 10,
-      "label": "芒果",
+      "label": "杯子",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/mango.jpg"
+      "image_path": "images/daily_necessities/cup.jpg"
     },
     {
       "id": 11,
-      "label": "木瓜",
+      "label": "勺子",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/papaya.jpg"
+      "image_path": "images/daily_necessities/spoon.jpg"
     },
     {
       "id": 12,
-      "label": "菠萝",
+      "label": "洗洁精",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/pineapple.jpg"
+      "image_path": "images/daily_necessities/detergent2.jpg"
     },
     {
       "id": 13,
-      "label": "土豆",
+      "label": "剪刀",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/potato.jpg"
+      "image_path": "images/daily_necessities/scissor.jpg"
     },
     {
       "id": 14,
-      "label": "杨桃",
+      "label": "镜子",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/star_fruit.jpg"
+      "image_path": "images/daily_necessities/mirror.jpg"
     },
     {
       "id": 15,
-      "label": "番茄/西红柿",
+      "label": "水果刀",
       "border_color": "rgb(102, 221, 0)",
       "background_color": "rgb(204, 255, 170)",
       "ext_coughdrop_part_of_speech": "",
-      "image_path": "images/fruits_vege/tomato.jpg"
+      "image_path": "images/daily_necessities/knife.jpg"
+    },
+    {
+      "id": 16,
+      "label": "花露水",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/daily_necessities/toilet_water.jpg"
+    },
+    {
+      "id": 17,
+      "label": "衣架",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/daily_necessities/clothes_hanger.jpg"
+    },
+    {
+      "id": 18,
+      "label": "闹钟",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/daily_necessities/alarm_clock.jpg"
+    },
+    {
+      "id": 19,
+      "label": "手电筒",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/daily_necessities/flashlight.jpg"
+    },
+    {
+      "id": 20,
+      "label": "雨伞",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "",
+      "image_path": "images/daily_necessities/umbrella.jpg"
     }
   ],
   "grid": {
@@ -151,9 +191,9 @@
   "sounds": [
 
   ],
-  "id": "fruits_vege",
-  "locale": "en",
-  "name": "蔬菜水果",
+  "id": "daily_necessities",
+  "locale": "zh",
+  "name": "生活用品",
   "default_layout": "landscape",
   "url": "",
   "data_url": "",
