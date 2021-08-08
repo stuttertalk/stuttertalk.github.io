@@ -1,0 +1,549 @@
+{
+  "format": "open-board-0.1",
+  "license": {
+    "type": "CC By",
+    "copyright_notice_url": "http://creativecommons.org/licenses/by/4.0/",
+    "author_name": "CoughDrop",
+    "author_url": "https://www.mycoughdrop.com/example"
+  },
+  "buttons": [
+    {
+      "id": 1,
+      "label": "大",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_5804_1584c5f83e5d66557f641163"
+    },
+    {
+      "id": 6,
+      "label": "靠近",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "preposition",
+      "image_id": "1_5816_31687754666fe0774a922346"
+    },
+    {
+      "id": 3,
+      "label": "简单",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_5809_9f45f316dcabacd19c6323b6"
+    },
+    {
+      "id": 4,
+      "label": "在",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_5811_5e264e2c242519fb09e08032"
+    },
+    {
+      "id": 24,
+      "label": "一样",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_47939_f102e26f04300f000d3781e0"
+    },
+    {
+      "id": 7,
+      "label": "小",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "article",
+      "image_id": "1_5805_6b9aa4aabe90b8ab7ae85bcb"
+    },
+    {
+      "id": 12,
+      "label": "远",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_5817_9ab66522eaf65c5008558185"
+    },
+    {
+      "id": 9,
+      "label": "困难",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_5825_ecf06df5daa4adddf910f026"
+    },
+    {
+      "id": 10,
+      "label": "离开",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "preposition",
+      "image_id": "1_5813_23b9095338960395e7c739e1"
+    },
+    {
+      "id": 19,
+      "label": "不同",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_6024_f39ac9c5bec2746195b5a297"
+    },
+    {
+      "id": 13,
+      "label": "在",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_5818_11493529f0d03d5e089af97f"
+    },
+    {
+      "id": 15,
+      "label": "看",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "verb",
+      "image_id": "1_5803_6d28f1f920ff706141bfd833"
+    },
+    {
+      "id": 16,
+      "label": "好玩",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_47958_7a7342abb81dc43e3f16cbef"
+    },
+    {
+      "id": 25,
+      "label": "快",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_47954_33b0bf70aa2fdd2a4de0c010"
+    },
+    {
+      "id": 21,
+      "label": "热",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_5957_8b8553dc687ab6492e1d86a6"
+    },
+    {
+      "id": 17,
+      "label": "外面",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adverb",
+      "image_id": "1_5819_26a3638db0be7d75f61f267e"
+    },
+    {
+      "id": 23,
+      "label": "最喜欢的",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_47847_9f3bc9078369652d13ebc3be"
+    },
+    {
+      "id": 20,
+      "label": "无聊",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_47959_a81aa5de7e5903702ccccbb7"
+    },
+    {
+      "id": 26,
+      "label": "慢",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_47955_18be0df655b1c22658e60f9d"
+    },
+    {
+      "id": 22,
+      "label": "冷",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_5955_3b45f06f5e400b473af4e2f4"
+    }
+  ],
+  "grid": {
+    "rows": 4,
+    "columns": 6,
+    "order": [
+      [
+        1,
+        6,
+        3,
+        4,
+        24,
+        null
+      ],
+      [
+        7,
+        12,
+        9,
+        10,
+        19,
+        null
+      ],
+      [
+        13,
+        null,
+        15,
+        16,
+        25,
+        21
+      ],
+      [
+        17,
+        null,
+        23,
+        20,
+        26,
+        22
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "1_5804_1584c5f83e5d66557f641163",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/big.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5804_1584c5f83e5d66557f641163",
+      "content_type": "image/png",
+      "path": "images/image_1_5804_1584c5f83e5d66557f641163.png"
+    },
+    {
+      "id": "1_5816_31687754666fe0774a922346",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/near.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5816_31687754666fe0774a922346",
+      "content_type": "image/png",
+      "path": "images/image_1_5816_31687754666fe0774a922346.png"
+    },
+    {
+      "id": "1_5809_9f45f316dcabacd19c6323b6",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/easy.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5809_9f45f316dcabacd19c6323b6",
+      "content_type": "image/png",
+      "path": "images/image_1_5809_9f45f316dcabacd19c6323b6.png"
+    },
+    {
+      "id": "1_5811_5e264e2c242519fb09e08032",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/turn on light switch , to.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5811_5e264e2c242519fb09e08032",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_5811_5e264e2c242519fb09e08032.png"
+    },
+    {
+      "id": "1_47939_f102e26f04300f000d3781e0",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/same.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_47939_f102e26f04300f000d3781e0",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_47939_f102e26f04300f000d3781e0.png"
+    },
+    {
+      "id": "1_5805_6b9aa4aabe90b8ab7ae85bcb",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/little.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5805_6b9aa4aabe90b8ab7ae85bcb",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_5805_6b9aa4aabe90b8ab7ae85bcb.png"
+    },
+    {
+      "id": "1_5817_9ab66522eaf65c5008558185",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/far.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5817_9ab66522eaf65c5008558185",
+      "content_type": "image/png",
+      "path": "images/image_1_5817_9ab66522eaf65c5008558185.png"
+    },
+    {
+      "id": "1_5825_ecf06df5daa4adddf910f026",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/hard.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5825_ecf06df5daa4adddf910f026",
+      "content_type": "image/png",
+      "path": "images/image_1_5825_ecf06df5daa4adddf910f026.png"
+    },
+    {
+      "id": "1_5813_23b9095338960395e7c739e1",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/off.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5813_23b9095338960395e7c739e1",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_5813_23b9095338960395e7c739e1.png"
+    },
+    {
+      "id": "1_6024_f39ac9c5bec2746195b5a297",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/different.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_6024_f39ac9c5bec2746195b5a297",
+      "content_type": "image/png",
+      "path": "images/image_1_6024_f39ac9c5bec2746195b5a297.png"
+    },
+    {
+      "id": "1_5818_11493529f0d03d5e089af97f",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/in.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5818_11493529f0d03d5e089af97f",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_5818_11493529f0d03d5e089af97f.png"
+    },
+    {
+      "id": "1_5803_6d28f1f920ff706141bfd833",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/look at - watch.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5803_6d28f1f920ff706141bfd833",
+      "content_type": "image/png",
+      "path": "images/image_1_5803_6d28f1f920ff706141bfd833.png"
+    },
+    {
+      "id": "1_47958_7a7342abb81dc43e3f16cbef",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/fun.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_47958_7a7342abb81dc43e3f16cbef",
+      "content_type": "image/png",
+      "path": "images/image_1_47958_7a7342abb81dc43e3f16cbef.png"
+    },
+    {
+      "id": "1_47954_33b0bf70aa2fdd2a4de0c010",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/fast 2.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_47954_33b0bf70aa2fdd2a4de0c010",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_47954_33b0bf70aa2fdd2a4de0c010.png"
+    },
+    {
+      "id": "1_5957_8b8553dc687ab6492e1d86a6",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/hot.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5957_8b8553dc687ab6492e1d86a6",
+      "content_type": "image/png",
+      "path": "images/image_1_5957_8b8553dc687ab6492e1d86a6.png"
+    },
+    {
+      "id": "1_5819_26a3638db0be7d75f61f267e",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/out.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5819_26a3638db0be7d75f61f267e",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_5819_26a3638db0be7d75f61f267e.png"
+    },
+    {
+      "id": "1_47847_9f3bc9078369652d13ebc3be",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/to taste.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_47847_9f3bc9078369652d13ebc3be",
+      "content_type": "image/png",
+      "path": "images/image_1_47847_9f3bc9078369652d13ebc3be.png"
+    },
+    {
+      "id": "1_47959_a81aa5de7e5903702ccccbb7",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/boring.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_47959_a81aa5de7e5903702ccccbb7",
+      "content_type": "image/png",
+      "path": "images/image_1_47959_a81aa5de7e5903702ccccbb7.png"
+    },
+    {
+      "id": "1_47955_18be0df655b1c22658e60f9d",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/slow.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_47955_18be0df655b1c22658e60f9d",
+      "content_type": "image/png",
+      "path": "images/image_1_47955_18be0df655b1c22658e60f9d.png"
+    },
+    {
+      "id": "1_5955_3b45f06f5e400b473af4e2f4",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/cold.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5955_3b45f06f5e400b473af4e2f4",
+      "content_type": "image/png",
+      "path": "images/image_1_5955_3b45f06f5e400b473af4e2f4.png"
+    }
+  ],
+  "sounds": [
+
+  ],
+  "id": "1_407",
+  "locale": "zh",
+  "name": "Core 24 - look",
+  "default_layout": "landscape",
+  "url": "https://app.mycoughdrop.com/example/core-24-look",
+  "data_url": "https://app.mycoughdrop.com/api/v1/boards/example/core-24-look",
+  "description_html": "built with CoughDrop",
+  "ext_coughdrop_settings": {
+    "private": false,
+    "key": "example/core-24-look",
+    "word_suggestions": false,
+    "protected": false,
+    "home_board": null,
+    "categories": null
+  }
+}

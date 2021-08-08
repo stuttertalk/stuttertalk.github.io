@@ -1,0 +1,213 @@
+{
+  "format": "open-board-0.1",
+  "license": {
+    "type": "CC By",
+    "copyright_notice_url": "http://creativecommons.org/licenses/by/4.0/",
+    "author_name": "CoughDrop",
+    "author_url": "https://www.mycoughdrop.com/example"
+  },
+  "buttons": [
+    {
+      "id": 6,
+      "label": "工作",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "verb",
+      "image_id": "1_49126_ab480966e1d7450b9a976257"
+    },
+    {
+      "id": 2,
+      "label": "交易",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "verb",
+      "image_id": "1_48854_1599d87825c4d1f9afd942c5"
+    },
+    {
+      "id": 3,
+      "label": "卖",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "verb",
+      "image_id": "1_48853_ae725853f002a1bc6d31769c"
+    },
+    {
+      "id": 4,
+      "label": "买",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "verb",
+      "image_id": "1_48852_bce72f2cdb4c262c88ead41d"
+    },
+    {
+      "id": 1,
+      "label": "工作",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48837_522fe25f063c07919b478003"
+    },
+    {
+      "id": 5,
+      "label": "钱",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48851_a54d68d4f0e7cd19d16e4e34"
+    }
+  ],
+  "grid": {
+    "rows": 4,
+    "columns": 6,
+    "order": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        6,
+        null
+      ],
+      [
+        null,
+        2,
+        3,
+        4,
+        1,
+        5
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "1_49126_ab480966e1d7450b9a976257",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/work , to.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_49126_ab480966e1d7450b9a976257",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_49126_ab480966e1d7450b9a976257.png"
+    },
+    {
+      "id": "1_48854_1599d87825c4d1f9afd942c5",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/trade.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48854_1599d87825c4d1f9afd942c5",
+      "content_type": "image/png",
+      "path": "images/image_1_48854_1599d87825c4d1f9afd942c5.png"
+    },
+    {
+      "id": "1_48853_ae725853f002a1bc6d31769c",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/to sell.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48853_ae725853f002a1bc6d31769c",
+      "content_type": "image/png",
+      "path": "images/image_1_48853_ae725853f002a1bc6d31769c.png"
+    },
+    {
+      "id": "1_48852_bce72f2cdb4c262c88ead41d",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/to buy_1.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48852_bce72f2cdb4c262c88ead41d",
+      "content_type": "image/png",
+      "path": "images/image_1_48852_bce72f2cdb4c262c88ead41d.png"
+    },
+    {
+      "id": "1_48837_522fe25f063c07919b478003",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/job.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48837_522fe25f063c07919b478003",
+      "content_type": "image/png",
+      "path": "images/image_1_48837_522fe25f063c07919b478003.png"
+    },
+    {
+      "id": "1_48851_a54d68d4f0e7cd19d16e4e34",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/money.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48851_a54d68d4f0e7cd19d16e4e34",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48851_a54d68d4f0e7cd19d16e4e34.png"
+    }
+  ],
+  "sounds": [
+
+  ],
+  "id": "1_14452",
+  "locale": "zh",
+  "name": "Core 24 - job",
+  "default_layout": "landscape",
+  "url": "https://app.mycoughdrop.com/example/core-24-job",
+  "data_url": "https://app.mycoughdrop.com/api/v1/boards/example/core-24-job",
+  "description_html": "built with CoughDrop",
+  "ext_coughdrop_settings": {
+    "private": false,
+    "key": "example/core-24-job",
+    "word_suggestions": false,
+    "protected": false,
+    "home_board": null,
+    "categories": null
+  }
+}

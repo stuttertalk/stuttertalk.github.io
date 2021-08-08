@@ -1,0 +1,358 @@
+{
+  "format": "open-board-0.1",
+  "license": {
+    "type": "CC By",
+    "copyright_notice_url": "http://creativecommons.org/licenses/by/4.0/",
+    "author_name": "CoughDrop",
+    "author_url": "https://www.mycoughdrop.com/example"
+  },
+  "buttons": [
+    {
+      "id": 2,
+      "label": "他",
+      "border_color": "rgb(221, 221, 0)",
+      "background_color": "rgb(255, 255, 170)",
+      "ext_coughdrop_part_of_speech": "pronoun",
+      "image_id": "1_48684_d7e52db4dbc64c91ffb229de"
+    },
+    {
+      "id": 3,
+      "label": "他的",
+      "border_color": "rgb(221, 221, 0)",
+      "background_color": "rgb(255, 255, 170)",
+      "ext_coughdrop_part_of_speech": "pronoun",
+      "image_id": "1_48680_ccb05ed33b7104d847425d2d"
+    },
+    {
+      "id": 12,
+      "label": "人们",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48730_fdd4497cfb9cc26fb1c42a3d"
+    },
+    {
+      "id": 4,
+      "label": "她",
+      "border_color": "rgb(221, 221, 0)",
+      "background_color": "rgb(255, 255, 170)",
+      "ext_coughdrop_part_of_speech": "pronoun",
+      "image_id": "1_48685_ad9352a9ae36bc70fcc28874"
+    },
+    {
+      "id": 5,
+      "label": "她的",
+      "border_color": "rgb(221, 221, 0)",
+      "background_color": "rgb(255, 255, 170)",
+      "ext_coughdrop_part_of_speech": "pronoun",
+      "image_id": "1_48683_1db7d81de78e7e021ec4f0e7"
+    },
+    {
+      "id": 6,
+      "label": "我们",
+      "border_color": "rgb(221, 221, 0)",
+      "background_color": "rgb(255, 255, 170)",
+      "ext_coughdrop_part_of_speech": "pronoun",
+      "image_id": "1_48677_3df8d8deed8b3f1a6d0da545"
+    },
+    {
+      "id": 7,
+      "label": "他们的",
+      "border_color": "rgb(221, 221, 0)",
+      "background_color": "rgb(255, 255, 170)",
+      "ext_coughdrop_part_of_speech": "pronoun",
+      "image_id": "1_48682_2744ba17c7de386cdf8a84fc"
+    },
+    {
+      "id": 8,
+      "label": "我自己",
+      "border_color": "rgb(221, 221, 0)",
+      "background_color": "rgb(255, 255, 170)",
+      "ext_coughdrop_part_of_speech": "pronoun",
+      "image_id": "1_48687_651519ada1884da3511c1c54"
+    },
+    {
+      "id": 1,
+      "label": "谁",
+      "border_color": "rgb(112, 17, 255)",
+      "background_color": "rgb(204, 170, 255)",
+      "ext_coughdrop_part_of_speech": "question",
+      "image_id": "1_48676_2a04acee1aefac70836a9b88"
+    },
+    {
+      "id": 9,
+      "label": "孩子",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48691_d9773d1ba220ff8a4b0d6b70"
+    },
+    {
+      "id": 10,
+      "label": "男人",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48689_3f2c403a0de74343a5b01547"
+    },
+    {
+      "id": 11,
+      "label": "女人",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48690_a46d6b80f3492881d56bb281"
+    }
+  ],
+  "grid": {
+    "rows": 4,
+    "columns": 6,
+    "order": [
+      [
+        2,
+        3,
+        null,
+        12,
+        null,
+        null
+      ],
+      [
+        4,
+        5,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        6,
+        7,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        8,
+        1,
+        9,
+        10,
+        11,
+        null
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "1_48684_d7e52db4dbc64c91ffb229de",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/boy_3.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48684_d7e52db4dbc64c91ffb229de",
+      "content_type": "image/png",
+      "path": "images/image_1_48684_d7e52db4dbc64c91ffb229de.png"
+    },
+    {
+      "id": "1_48680_ccb05ed33b7104d847425d2d",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/he.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48680_ccb05ed33b7104d847425d2d",
+      "content_type": "image/png",
+      "path": "images/image_1_48680_ccb05ed33b7104d847425d2d.png"
+    },
+    {
+      "id": "1_48730_fdd4497cfb9cc26fb1c42a3d",
+      "width": 100,
+      "height": 100,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by/3.0/",
+        "source_url": "http://thenounproject.com/term/people/",
+        "author_name": "Moh Kamaru",
+        "author_url": "http://thenounproject.com/kamaru87",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/noun-project/People-32d569b31d.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48730_fdd4497cfb9cc26fb1c42a3d",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48730_fdd4497cfb9cc26fb1c42a3d.png"
+    },
+    {
+      "id": "1_48685_ad9352a9ae36bc70fcc28874",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/girl_2.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48685_ad9352a9ae36bc70fcc28874",
+      "content_type": "image/png",
+      "path": "images/image_1_48685_ad9352a9ae36bc70fcc28874.png"
+    },
+    {
+      "id": "1_48683_1db7d81de78e7e021ec4f0e7",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/she.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48683_1db7d81de78e7e021ec4f0e7",
+      "content_type": "image/png",
+      "path": "images/image_1_48683_1db7d81de78e7e021ec4f0e7.png"
+    },
+    {
+      "id": "1_48677_3df8d8deed8b3f1a6d0da545",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/us_1.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48677_3df8d8deed8b3f1a6d0da545",
+      "content_type": "image/png",
+      "path": "images/image_1_48677_3df8d8deed8b3f1a6d0da545.png"
+    },
+    {
+      "id": "1_48682_2744ba17c7de386cdf8a84fc",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/theirs.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48682_2744ba17c7de386cdf8a84fc",
+      "content_type": "image/png",
+      "path": "images/image_1_48682_2744ba17c7de386cdf8a84fc.png"
+    },
+    {
+      "id": "1_48687_651519ada1884da3511c1c54",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/me_1.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48687_651519ada1884da3511c1c54",
+      "content_type": "image/png",
+      "path": "images/image_1_48687_651519ada1884da3511c1c54.png"
+    },
+    {
+      "id": "1_48676_2a04acee1aefac70836a9b88",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/who.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48676_2a04acee1aefac70836a9b88",
+      "content_type": "image/png",
+      "path": "images/image_1_48676_2a04acee1aefac70836a9b88.png"
+    },
+    {
+      "id": "1_48691_d9773d1ba220ff8a4b0d6b70",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/girl_2.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48691_d9773d1ba220ff8a4b0d6b70",
+      "content_type": "image/png",
+      "path": "images/image_1_48691_d9773d1ba220ff8a4b0d6b70.png"
+    },
+    {
+      "id": "1_48689_3f2c403a0de74343a5b01547",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/human (man).png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48689_3f2c403a0de74343a5b01547",
+      "content_type": "image/png",
+      "path": "images/image_1_48689_3f2c403a0de74343a5b01547.png"
+    },
+    {
+      "id": "1_48690_a46d6b80f3492881d56bb281",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/woman_2.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48690_a46d6b80f3492881d56bb281",
+      "content_type": "image/png",
+      "path": "images/image_1_48690_a46d6b80f3492881d56bb281.png"
+    }
+  ],
+  "sounds": [
+
+  ],
+  "id": "1_14443",
+  "locale": "zh",
+  "name": "Core 24 - who 2",
+  "default_layout": "landscape",
+  "url": "https://app.mycoughdrop.com/example/core-24-who-2",
+  "data_url": "https://app.mycoughdrop.com/api/v1/boards/example/core-24-who-2",
+  "description_html": "built with CoughDrop",
+  "ext_coughdrop_settings": {
+    "private": false,
+    "key": "example/core-24-who-2",
+    "word_suggestions": false,
+    "protected": false,
+    "home_board": null,
+    "categories": null
+  }
+}

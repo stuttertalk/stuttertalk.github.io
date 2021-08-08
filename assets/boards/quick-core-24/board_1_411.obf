@@ -1,0 +1,561 @@
+{
+  "format": "open-board-0.1",
+  "license": {
+    "type": "CC By",
+    "copyright_notice_url": "http://creativecommons.org/licenses/by/4.0/",
+    "author_name": "CoughDrop",
+    "author_url": "https://www.mycoughdrop.com/example"
+  },
+  "buttons": [
+    {
+      "id": 1,
+      "label": "帽子",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_5758_43e7a0e191acd95ea4cbf49a"
+    },
+    {
+      "id": 2,
+      "label": "外衣",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_5765_136d4b5bb131fe4621e0b879"
+    },
+    {
+      "id": 18,
+      "label": "帅",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_116357_8cfce1b955e48a377b4784d0"
+    },
+    {
+      "id": 16,
+      "label": "衣服",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116358_e8c19b75b2c557ffe55963ee"
+    },
+    {
+      "id": 17,
+      "label": "睡衣",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48728_293bf96f36766edf68430bee"
+    },
+    {
+      "id": 3,
+      "label": "上衣",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_5759_b00e09b5a24d68ef35c41b35"
+    },
+    {
+      "id": 4,
+      "label": "穿",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "verb",
+      "image_id": "1_5770_96a2e0fd81e00264fbb63e0d"
+    },
+    {
+      "id": 19,
+      "label": "漂亮",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_116355_b2100e0fffcb6eb6e333fef7"
+    },
+    {
+      "id": 15,
+      "label": "触摸",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "load_board": {
+        "id": "1_14444",
+        "url": "https://app.mycoughdrop.com/example/core-24-fabric",
+        "data_url": "https://app.mycoughdrop.com/api/v1/boards/example/core-24-fabric",
+        "path": "board_1_14444.obf"
+      },
+      "ext_coughdrop_part_of_speech": "verb",
+      "image_id": "1_48693_84319286675c0bf5f9eb7a18"
+    },
+    {
+      "id": 6,
+      "label": "穿",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "verb",
+      "image_id": "1_5768_124d47a0b860aa91fbe94c4d"
+    },
+    {
+      "id": 13,
+      "label": "穿好了",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "verb",
+      "image_id": "1_47910_6d7ae46c44c43de6aeb885f9"
+    },
+    {
+      "id": 7,
+      "label": "裤子",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_5774_60e6520cd65e385e234b6601"
+    },
+    {
+      "id": 8,
+      "label": "内衣",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_5771_417233dcd097e4172e1a4996"
+    },
+    {
+      "id": 20,
+      "label": "丑",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_116359_23e2fa05aef11cddda7fd6a9"
+    },
+    {
+      "id": 5,
+      "label": "穿戴",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116356_06e8f9a7589f75c44aefa8f4"
+    },
+    {
+      "id": 9,
+      "label": "脱下",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "verb",
+      "image_id": "1_5769_9614a2bb04b5d35954f7f1af"
+    },
+    {
+      "id": 14,
+      "label": "便衣",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "verb",
+      "image_id": "1_47912_6554dbe32af9cf4b90e53df4"
+    },
+    {
+      "id": 10,
+      "label": "鞋子",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_5773_e0871b1627e94187826b4909"
+    },
+    {
+      "id": 11,
+      "label": "袜子",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_5775_78659bf5d630e86952db9dae"
+    },
+    {
+      "id": 12,
+      "label": "身体",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "load_board": {
+        "id": "1_412",
+        "url": "https://app.mycoughdrop.com/example/core-24-body",
+        "data_url": "https://app.mycoughdrop.com/api/v1/boards/example/core-24-body",
+        "path": "board_1_412.obf"
+      },
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_5776_16ecffe000a2d84922a9da72"
+    }
+  ],
+  "grid": {
+    "rows": 4,
+    "columns": 6,
+    "order": [
+      [
+        1,
+        2,
+        18,
+        16,
+        17,
+        null
+      ],
+      [
+        3,
+        4,
+        19,
+        15,
+        6,
+        13
+      ],
+      [
+        7,
+        8,
+        20,
+        5,
+        9,
+        14
+      ],
+      [
+        10,
+        11,
+        null,
+        null,
+        null,
+        12
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "1_5758_43e7a0e191acd95ea4cbf49a",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/hat.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5758_43e7a0e191acd95ea4cbf49a",
+      "content_type": "image/png",
+      "path": "images/image_1_5758_43e7a0e191acd95ea4cbf49a.png"
+    },
+    {
+      "id": "1_5765_136d4b5bb131fe4621e0b879",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/coat.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5765_136d4b5bb131fe4621e0b879",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_5765_136d4b5bb131fe4621e0b879.png"
+    },
+    {
+      "id": "1_116357_8cfce1b955e48a377b4784d0",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/handsome.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116357_8cfce1b955e48a377b4784d0",
+      "content_type": "image/png",
+      "path": "images/image_1_116357_8cfce1b955e48a377b4784d0.png"
+    },
+    {
+      "id": "1_116358_e8c19b75b2c557ffe55963ee",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/clothes.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116358_e8c19b75b2c557ffe55963ee",
+      "content_type": "image/png",
+      "path": "images/image_1_116358_e8c19b75b2c557ffe55963ee.png"
+    },
+    {
+      "id": "1_48728_293bf96f36766edf68430bee",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/night.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48728_293bf96f36766edf68430bee",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48728_293bf96f36766edf68430bee.png"
+    },
+    {
+      "id": "1_5759_b00e09b5a24d68ef35c41b35",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/shirt.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5759_b00e09b5a24d68ef35c41b35",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_5759_b00e09b5a24d68ef35c41b35.png"
+    },
+    {
+      "id": "1_5770_96a2e0fd81e00264fbb63e0d",
+      "width": 851,
+      "height": 851,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/dress.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5770_96a2e0fd81e00264fbb63e0d",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_5770_96a2e0fd81e00264fbb63e0d.png"
+    },
+    {
+      "id": "1_116355_b2100e0fffcb6eb6e333fef7",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/pretty.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116355_b2100e0fffcb6eb6e333fef7",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_116355_b2100e0fffcb6eb6e333fef7.png"
+    },
+    {
+      "id": "1_48693_84319286675c0bf5f9eb7a18",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/touch.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48693_84319286675c0bf5f9eb7a18",
+      "content_type": "image/png",
+      "path": "images/image_1_48693_84319286675c0bf5f9eb7a18.png"
+    },
+    {
+      "id": "1_5768_124d47a0b860aa91fbe94c4d",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/to put one's shoes on.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5768_124d47a0b860aa91fbe94c4d",
+      "content_type": "image/png",
+      "path": "images/image_1_5768_124d47a0b860aa91fbe94c4d.png"
+    },
+    {
+      "id": "1_47910_6d7ae46c44c43de6aeb885f9",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/get dressed , to.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_47910_6d7ae46c44c43de6aeb885f9",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_47910_6d7ae46c44c43de6aeb885f9.png"
+    },
+    {
+      "id": "1_5774_60e6520cd65e385e234b6601",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/trousers_1.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5774_60e6520cd65e385e234b6601",
+      "content_type": "image/png",
+      "path": "images/image_1_5774_60e6520cd65e385e234b6601.png"
+    },
+    {
+      "id": "1_5771_417233dcd097e4172e1a4996",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/underwear.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5771_417233dcd097e4172e1a4996",
+      "content_type": "image/png",
+      "path": "images/image_1_5771_417233dcd097e4172e1a4996.png"
+    },
+    {
+      "id": "1_116359_23e2fa05aef11cddda7fd6a9",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/ugly.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116359_23e2fa05aef11cddda7fd6a9",
+      "content_type": "image/png",
+      "path": "images/image_1_116359_23e2fa05aef11cddda7fd6a9.png"
+    },
+    {
+      "id": "1_116356_06e8f9a7589f75c44aefa8f4",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/wear.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116356_06e8f9a7589f75c44aefa8f4",
+      "content_type": "image/png",
+      "path": "images/image_1_116356_06e8f9a7589f75c44aefa8f4.png"
+    },
+    {
+      "id": "1_5769_9614a2bb04b5d35954f7f1af",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/to take off one's shoes.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5769_9614a2bb04b5d35954f7f1af",
+      "content_type": "image/png",
+      "path": "images/image_1_5769_9614a2bb04b5d35954f7f1af.png"
+    },
+    {
+      "id": "1_47912_6554dbe32af9cf4b90e53df4",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/to dress_1.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_47912_6554dbe32af9cf4b90e53df4",
+      "content_type": "image/png",
+      "path": "images/image_1_47912_6554dbe32af9cf4b90e53df4.png"
+    },
+    {
+      "id": "1_5773_e0871b1627e94187826b4909",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/shoes_11.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5773_e0871b1627e94187826b4909",
+      "content_type": "image/png",
+      "path": "images/image_1_5773_e0871b1627e94187826b4909.png"
+    },
+    {
+      "id": "1_5775_78659bf5d630e86952db9dae",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/socks.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5775_78659bf5d630e86952db9dae",
+      "content_type": "image/png",
+      "path": "images/image_1_5775_78659bf5d630e86952db9dae.png"
+    },
+    {
+      "id": "1_5776_16ecffe000a2d84922a9da72",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/body.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_5776_16ecffe000a2d84922a9da72",
+      "content_type": "image/png",
+      "path": "images/image_1_5776_16ecffe000a2d84922a9da72.png"
+    }
+  ],
+  "sounds": [
+
+  ],
+  "id": "1_411",
+  "locale": "zh",
+  "name": "Core 24 - wear",
+  "default_layout": "landscape",
+  "url": "https://app.mycoughdrop.com/example/core-24-wear",
+  "data_url": "https://app.mycoughdrop.com/api/v1/boards/example/core-24-wear",
+  "description_html": "built with CoughDrop",
+  "ext_coughdrop_settings": {
+    "private": false,
+    "key": "example/core-24-wear",
+    "word_suggestions": false,
+    "protected": false,
+    "home_board": null,
+    "categories": null
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "format": "open-board-0.1",
+  "license": {
+    "type": "CC By",
+    "copyright_notice_url": "http://creativecommons.org/licenses/by/4.0/",
+    "author_name": "CoughDrop",
+    "author_url": "https://www.mycoughdrop.com/example"
+  },
+  "buttons": [
+    {
+      "id": 2,
+      "label": "掘金鸡",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116321_fd238349896743b5e88ebeb2"
+    },
+    {
+      "id": 3,
+      "label": "薯条",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116320_4064daee426e4b60e287b298"
+    },
+    {
+      "id": 4,
+      "label": "热狗",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116326_50ca1201f484ebf920d250bd"
+    },
+    {
+      "id": 5,
+      "label": "汉堡",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116319_7024233b573724ad09043c4f"
+    },
+    {
+      "id": 1,
+      "label": "食物",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116316_56c454e527974cda387bbb29"
+    },
+    {
+      "id": 9,
+      "label": "炸玉米饼",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116331_051d90441498bcbed121c0ad"
+    },
+    {
+      "id": 8,
+      "label": "馅饼",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116323_6e7c42afeb11733a7826a786"
+    },
+    {
+      "id": 7,
+      "label": "卷饼",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116324_fcfcacb87ec28a36d6ed4440"
+    },
+    {
+      "id": 6,
+      "label": "油炸玉米粉饼",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116325_010ccd0bb274430549623601"
+    },
+    {
+      "id": 10,
+      "label": "意面",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116330_f114a41e8776b60dfbe27306"
+    },
+    {
+      "id": 11,
+      "label": "千层饼",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116329_8765cec108d78c366bbfbc96"
+    },
+    {
+      "id": 12,
+      "label": "通心粉",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116328_958d4475f9c7ffbf3f8ca35f"
+    },
+    {
+      "id": 13,
+      "label": "匹萨饼",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116318_232f912ce8db5788c3cd1ab3"
+    },
+    {
+      "id": 14,
+      "label": "烤奶酪",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116347_19cfc61ee28fff6bb7eb6b49"
+    },
+    {
+      "id": 15,
+      "label": "米饭",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_116346_c0c9df6cfe39a54e6188ca63"
+    }
+  ],
+  "grid": {
+    "rows": 4,
+    "columns": 6,
+    "order": [
+      [
+        2,
+        3,
+        4,
+        5,
+        1,
+        null
+      ],
+      [
+        9,
+        8,
+        7,
+        6,
+        null,
+        null
+      ],
+      [
+        10,
+        11,
+        12,
+        13,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        14,
+        15,
+        null,
+        null
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "1_116321_fd238349896743b5e88ebeb2",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/chicken nuggets.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116321_fd238349896743b5e88ebeb2",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_116321_fd238349896743b5e88ebeb2.png"
+    },
+    {
+      "id": "1_116320_4064daee426e4b60e287b298",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/chips packet.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116320_4064daee426e4b60e287b298",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_116320_4064daee426e4b60e287b298.png"
+    },
+    {
+      "id": "1_116326_50ca1201f484ebf920d250bd",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/hot dog.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116326_50ca1201f484ebf920d250bd",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_116326_50ca1201f484ebf920d250bd.png"
+    },
+    {
+      "id": "1_116319_7024233b573724ad09043c4f",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/hamburger.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116319_7024233b573724ad09043c4f",
+      "content_type": "image/png",
+      "path": "images/image_1_116319_7024233b573724ad09043c4f.png"
+    },
+    {
+      "id": "1_116316_56c454e527974cda387bbb29",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/food.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116316_56c454e527974cda387bbb29",
+      "content_type": "image/png",
+      "path": "images/image_1_116316_56c454e527974cda387bbb29.png"
+    },
+    {
+      "id": "1_116331_051d90441498bcbed121c0ad",
+      "width": 150,
+      "height": 150,
+      "license": {
+        "type": "CC By",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by/3.0/us/",
+        "author_name": "Caro Reyes",
+        "author_url": "http://thenounproject.com/CaroV.Reyes",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/noun-project/Taco_495_107465.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116331_051d90441498bcbed121c0ad",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_116331_051d90441498bcbed121c0ad.png"
+    },
+    {
+      "id": "1_116323_6e7c42afeb11733a7826a786",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/potatoes in hot sauce.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116323_6e7c42afeb11733a7826a786",
+      "content_type": "image/png",
+      "path": "images/image_1_116323_6e7c42afeb11733a7826a786.png"
+    },
+    {
+      "id": "1_116324_fcfcacb87ec28a36d6ed4440",
+      "width": 150,
+      "height": 150,
+      "license": {
+        "type": "CC By",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by/3.0/us/",
+        "author_name": "Simon Child",
+        "author_url": "http://thenounproject.com/Simon Child",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/noun-project/burrito_791_448207.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116324_fcfcacb87ec28a36d6ed4440",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_116324_fcfcacb87ec28a36d6ed4440.png"
+    },
+    {
+      "id": "1_116325_010ccd0bb274430549623601",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/cheese.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116325_010ccd0bb274430549623601",
+      "content_type": "image/png",
+      "path": "images/image_1_116325_010ccd0bb274430549623601.png"
+    },
+    {
+      "id": "1_116330_f114a41e8776b60dfbe27306",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/spaghetti.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116330_f114a41e8776b60dfbe27306",
+      "content_type": "image/png",
+      "path": "images/image_1_116330_f114a41e8776b60dfbe27306.png"
+    },
+    {
+      "id": "1_116329_8765cec108d78c366bbfbc96",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/dish.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116329_8765cec108d78c366bbfbc96",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_116329_8765cec108d78c366bbfbc96.png"
+    },
+    {
+      "id": "1_116328_958d4475f9c7ffbf3f8ca35f",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/pasta.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116328_958d4475f9c7ffbf3f8ca35f",
+      "content_type": "image/png",
+      "path": "images/image_1_116328_958d4475f9c7ffbf3f8ca35f.png"
+    },
+    {
+      "id": "1_116318_232f912ce8db5788c3cd1ab3",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/pizza.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116318_232f912ce8db5788c3cd1ab3",
+      "content_type": "image/png",
+      "path": "images/image_1_116318_232f912ce8db5788c3cd1ab3.png"
+    },
+    {
+      "id": "1_116347_19cfc61ee28fff6bb7eb6b49",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/sandwich toasted.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116347_19cfc61ee28fff6bb7eb6b49",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_116347_19cfc61ee28fff6bb7eb6b49.png"
+    },
+    {
+      "id": "1_116346_c0c9df6cfe39a54e6188ca63",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/rice.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_116346_c0c9df6cfe39a54e6188ca63",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_116346_c0c9df6cfe39a54e6188ca63.png"
+    }
+  ],
+  "sounds": [
+
+  ],
+  "id": "1_41409",
+  "locale": "zh",
+  "name": "Core 24 - Food",
+  "default_layout": "landscape",
+  "url": "https://app.mycoughdrop.com/example/core-24-food",
+  "data_url": "https://app.mycoughdrop.com/api/v1/boards/example/core-24-food",
+  "description_html": "built with CoughDrop",
+  "ext_coughdrop_settings": {
+    "private": false,
+    "key": "example/core-24-food",
+    "word_suggestions": false,
+    "protected": false,
+    "home_board": null,
+    "categories": null
+  }
+}

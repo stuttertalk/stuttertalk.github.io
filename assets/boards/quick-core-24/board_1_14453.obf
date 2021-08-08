@@ -1,0 +1,358 @@
+{
+  "format": "open-board-0.1",
+  "license": {
+    "type": "CC By",
+    "copyright_notice_url": "http://creativecommons.org/licenses/by/4.0/",
+    "author_name": "CoughDrop",
+    "author_url": "https://www.mycoughdrop.com/example"
+  },
+  "buttons": [
+    {
+      "id": 3,
+      "label": "行星",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48850_307b8a45293a7276eeadc698"
+    },
+    {
+      "id": 4,
+      "label": "空间",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48849_9995e30b641f202cd227d8af"
+    },
+    {
+      "id": 5,
+      "label": "月亮",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48848_b58959a32b1706176f5b88ce"
+    },
+    {
+      "id": 6,
+      "label": "太阳",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48847_149ecfced6099de6fd9e4fa0"
+    },
+    {
+      "id": 7,
+      "label": "闪电",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48845_a0757878b9fcda5a4229e3a3"
+    },
+    {
+      "id": 8,
+      "label": "雷电",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48846_19e3deb1a25d8e4a370a2102"
+    },
+    {
+      "id": 9,
+      "label": "风",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48844_5281fc8f9153e09d7c93170e"
+    },
+    {
+      "id": 10,
+      "label": "雪",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48843_3de92146a222c8c04454c914"
+    },
+    {
+      "id": 11,
+      "label": "下雨",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48842_76d0d65f756bbf0e25934888"
+    },
+    {
+      "id": 12,
+      "label": "风暴",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48841_37df3272bae179c151fc546a"
+    },
+    {
+      "id": 1,
+      "label": "天气",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48840_738c7e62ac46467b34e0d5bc"
+    },
+    {
+      "id": 2,
+      "label": "天空",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48838_c68ab38da9ba8d4f6884f5aa"
+    }
+  ],
+  "grid": {
+    "rows": 4,
+    "columns": 6,
+    "order": [
+      [
+        null,
+        null,
+        3,
+        4,
+        5,
+        6
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        1,
+        2
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "1_48850_307b8a45293a7276eeadc698",
+      "width": 100,
+      "height": 67,
+      "license": {
+        "type": "public domain",
+        "copyright_notice_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "source_url": "http://thenounproject.com/term/planet/",
+        "author_name": "Romeo Barreto",
+        "author_url": "http://thenounproject.com/romeo",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/noun-project/Planet-309280db81.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48850_307b8a45293a7276eeadc698",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48850_307b8a45293a7276eeadc698.png"
+    },
+    {
+      "id": "1_48849_9995e30b641f202cd227d8af",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/space.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48849_9995e30b641f202cd227d8af",
+      "content_type": "image/png",
+      "path": "images/image_1_48849_9995e30b641f202cd227d8af.png"
+    },
+    {
+      "id": "1_48848_b58959a32b1706176f5b88ce",
+      "license": {
+        "type": "public domain",
+        "copyright_notice_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "source_url": "http://thenounproject.com/term/moon/",
+        "author_name": "Travis Yunis",
+        "author_url": "http://thenounproject.com/mr.yunis",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/noun-project/Moon-3f8b08a72d.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48848_b58959a32b1706176f5b88ce",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48848_b58959a32b1706176f5b88ce.png"
+    },
+    {
+      "id": "1_48847_149ecfced6099de6fd9e4fa0",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/sun.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48847_149ecfced6099de6fd9e4fa0",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48847_149ecfced6099de6fd9e4fa0.png"
+    },
+    {
+      "id": "1_48845_a0757878b9fcda5a4229e3a3",
+      "width": 32,
+      "height": 32,
+      "license": {
+        "type": "CC By 3.0",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by/3.0/us/",
+        "source_url": "https://icomoon.io",
+        "author_name": "Keyamoon",
+        "author_url": "http://keyamoon.com/",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/icomoon/lightning.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48845_a0757878b9fcda5a4229e3a3",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48845_a0757878b9fcda5a4229e3a3.png"
+    },
+    {
+      "id": "1_48846_19e3deb1a25d8e4a370a2102",
+      "width": 20,
+      "height": 20,
+      "license": {
+        "type": "CC By-SA 3.0",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+        "source_url": "http://www.entypo.com/",
+        "author_name": "Daniel Bruce",
+        "author_url": "http://danielbruce.se/",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/icomoon/thunder.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48846_19e3deb1a25d8e4a370a2102",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48846_19e3deb1a25d8e4a370a2102.png"
+    },
+    {
+      "id": "1_48844_5281fc8f9153e09d7c93170e",
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by/3.0/",
+        "source_url": "http://thenounproject.com/term/wind/",
+        "author_name": "Piotrek Chuchla",
+        "author_url": "http://thenounproject.com/pchuchla",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/noun-project/Wind-e7331f078a.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48844_5281fc8f9153e09d7c93170e",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48844_5281fc8f9153e09d7c93170e.png"
+    },
+    {
+      "id": "1_48843_3de92146a222c8c04454c914",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/snow.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48843_3de92146a222c8c04454c914",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48843_3de92146a222c8c04454c914.png"
+    },
+    {
+      "id": "1_48842_76d0d65f756bbf0e25934888",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/rain.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48842_76d0d65f756bbf0e25934888",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48842_76d0d65f756bbf0e25934888.png"
+    },
+    {
+      "id": "1_48841_37df3272bae179c151fc546a",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/thunder storm.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48841_37df3272bae179c151fc546a",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48841_37df3272bae179c151fc546a.png"
+    },
+    {
+      "id": "1_48840_738c7e62ac46467b34e0d5bc",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/how is the weather.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48840_738c7e62ac46467b34e0d5bc",
+      "content_type": "image/png",
+      "path": "images/image_1_48840_738c7e62ac46467b34e0d5bc.png"
+    },
+    {
+      "id": "1_48838_c68ab38da9ba8d4f6884f5aa",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/sky.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48838_c68ab38da9ba8d4f6884f5aa",
+      "content_type": "image/png",
+      "path": "images/image_1_48838_c68ab38da9ba8d4f6884f5aa.png"
+    }
+  ],
+  "sounds": [
+
+  ],
+  "id": "1_14453",
+  "locale": "zh",
+  "name": "Core 24 - sky",
+  "default_layout": "landscape",
+  "url": "https://app.mycoughdrop.com/example/core-24-sky",
+  "data_url": "https://app.mycoughdrop.com/api/v1/boards/example/core-24-sky",
+  "description_html": "built with CoughDrop",
+  "ext_coughdrop_settings": {
+    "private": false,
+    "key": "example/core-24-sky",
+    "word_suggestions": false,
+    "protected": false,
+    "home_board": null,
+    "categories": null
+  }
+}

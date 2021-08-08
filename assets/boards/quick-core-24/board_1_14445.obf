@@ -1,0 +1,309 @@
+{
+  "format": "open-board-0.1",
+  "license": {
+    "type": "CC By",
+    "copyright_notice_url": "http://creativecommons.org/licenses/by/4.0/",
+    "author_name": "CoughDrop",
+    "author_url": "https://www.mycoughdrop.com/example"
+  },
+  "buttons": [
+    {
+      "id": 2,
+      "label": "大声的",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_48702_80516719151d21ab14a537c6"
+    },
+    {
+      "id": 3,
+      "label": "安静的",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_48703_515c584ff6e24df5fe37fc20"
+    },
+    {
+      "id": 4,
+      "label": "轻声的",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_48704_ee68e08c402136f3d4d0d828"
+    },
+    {
+      "id": 5,
+      "label": "吵",
+      "border_color": "rgb(17, 112, 255)",
+      "background_color": "rgb(170, 204, 255)",
+      "ext_coughdrop_part_of_speech": "adjective",
+      "image_id": "1_48705_3a6d7c9c761f635e517e07d6"
+    },
+    {
+      "id": 8,
+      "label": "唱歌",
+      "border_color": "rgb(102, 221, 0)",
+      "background_color": "rgb(204, 255, 170)",
+      "ext_coughdrop_part_of_speech": "verb",
+      "image_id": "1_48876_f129cab7bca48975d5c644ed"
+    },
+    {
+      "id": 6,
+      "label": "音乐",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48706_aba8e1a0f6aa88897c16579b"
+    },
+    {
+      "id": 7,
+      "label": "歌",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48707_9a6e8925f7faa5c1913464c5"
+    },
+    {
+      "id": 1,
+      "label": "声音",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48701_22e34624aabd8e3532805f8d"
+    },
+    {
+      "id": 9,
+      "label": "故事",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48892_8478aa42a571f93d32897d7f"
+    },
+    {
+      "id": 10,
+      "label": "书",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48893_960f62860a9950f645576297"
+    }
+  ],
+  "grid": {
+    "rows": 4,
+    "columns": 6,
+    "order": [
+      [
+        null,
+        2,
+        3,
+        4,
+        5,
+        null
+      ],
+      [
+        8,
+        6,
+        7,
+        null,
+        null,
+        null
+      ],
+      [
+        1,
+        9,
+        10,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "1_48702_80516719151d21ab14a537c6",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/loud.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48702_80516719151d21ab14a537c6",
+      "content_type": "image/png",
+      "path": "images/image_1_48702_80516719151d21ab14a537c6.png"
+    },
+    {
+      "id": "1_48703_515c584ff6e24df5fe37fc20",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/quiet.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48703_515c584ff6e24df5fe37fc20",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48703_515c584ff6e24df5fe37fc20.png"
+    },
+    {
+      "id": "1_48704_ee68e08c402136f3d4d0d828",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/soft.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48704_ee68e08c402136f3d4d0d828",
+      "content_type": "image/png",
+      "path": "images/image_1_48704_ee68e08c402136f3d4d0d828.png"
+    },
+    {
+      "id": "1_48705_3a6d7c9c761f635e517e07d6",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/noisy.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48705_3a6d7c9c761f635e517e07d6",
+      "content_type": "image/png",
+      "path": "images/image_1_48705_3a6d7c9c761f635e517e07d6.png"
+    },
+    {
+      "id": "1_48876_f129cab7bca48975d5c644ed",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/to sing_1.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48876_f129cab7bca48975d5c644ed",
+      "content_type": "image/png",
+      "path": "images/image_1_48876_f129cab7bca48975d5c644ed.png"
+    },
+    {
+      "id": "1_48706_aba8e1a0f6aa88897c16579b",
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by/3.0/",
+        "source_url": "http://thenounproject.com/term/music/",
+        "author_name": "Michael Zenaty",
+        "author_url": "http://thenounproject.com/Michzen",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/noun-project/Music-24b69f41d0.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48706_aba8e1a0f6aa88897c16579b",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48706_aba8e1a0f6aa88897c16579b.png"
+    },
+    {
+      "id": "1_48707_9a6e8925f7faa5c1913464c5",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/song.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48707_9a6e8925f7faa5c1913464c5",
+      "content_type": "image/png",
+      "path": "images/image_1_48707_9a6e8925f7faa5c1913464c5.png"
+    },
+    {
+      "id": "1_48701_22e34624aabd8e3532805f8d",
+      "width": 20,
+      "height": 20,
+      "license": {
+        "type": "CC By-SA 3.0",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+        "source_url": "http://www.entypo.com/",
+        "author_name": "Daniel Bruce",
+        "author_url": "http://danielbruce.se/",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/icomoon/sound2.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48701_22e34624aabd8e3532805f8d",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48701_22e34624aabd8e3532805f8d.png"
+    },
+    {
+      "id": "1_48892_8478aa42a571f93d32897d7f",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/and that is the end of the story.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48892_8478aa42a571f93d32897d7f",
+      "content_type": "image/png",
+      "path": "images/image_1_48892_8478aa42a571f93d32897d7f.png"
+    },
+    {
+      "id": "1_48893_960f62860a9950f645576297",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/book.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48893_960f62860a9950f645576297",
+      "content_type": "image/png",
+      "path": "images/image_1_48893_960f62860a9950f645576297.png"
+    }
+  ],
+  "sounds": [
+
+  ],
+  "id": "1_14445",
+  "locale": "zh",
+  "name": "Core 24 - sound",
+  "default_layout": "landscape",
+  "url": "https://app.mycoughdrop.com/example/core-24-sound",
+  "data_url": "https://app.mycoughdrop.com/api/v1/boards/example/core-24-sound",
+  "description_html": "built with CoughDrop",
+  "ext_coughdrop_settings": {
+    "private": false,
+    "key": "example/core-24-sound",
+    "word_suggestions": false,
+    "protected": false,
+    "home_board": null,
+    "categories": null
+  }
+}

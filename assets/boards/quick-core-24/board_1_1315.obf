@@ -1,0 +1,491 @@
+{
+  "format": "open-board-0.1",
+  "license": {
+    "type": "CC By",
+    "copyright_notice_url": "http://creativecommons.org/licenses/by/4.0/",
+    "author_name": "CoughDrop",
+    "author_url": "https://www.mycoughdrop.com/example"
+  },
+  "buttons": [
+    {
+      "id": 1,
+      "label": "汽车",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_15807_a48555536bbaacee6b9879a8"
+    },
+    {
+      "id": 2,
+      "label": "公交车",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_15809_a798ec36d65c99e05dd3a9a8"
+    },
+    {
+      "id": 3,
+      "label": "轮船",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_15816_977a05dac2ff589782864167"
+    },
+    {
+      "id": 4,
+      "label": "海洋",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_15810_57a84c1bacd0838a5245e83e"
+    },
+    {
+      "id": 5,
+      "label": "湖泊",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_15811_104dbeaf7ac7972ff683f68d"
+    },
+    {
+      "id": 6,
+      "label": "山",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_15817_6fd3af3bc24e5afd4ca6bfb2"
+    },
+    {
+      "id": 7,
+      "label": "花",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_15815_8b056fc1ad157b064d1d5c80"
+    },
+    {
+      "id": 8,
+      "label": "树",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_15813_42891ff3bcb13526d1d0335c"
+    },
+    {
+      "id": 9,
+      "label": "森林",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_15814_544f3c98b9910eb859c2955e"
+    },
+    {
+      "id": 10,
+      "label": "它",
+      "border_color": "rgb(221, 221, 0)",
+      "background_color": "rgb(255, 255, 170)",
+      "ext_coughdrop_part_of_speech": "pronoun",
+      "image_id": "1_15804_2e5649d272b94f8984869a66"
+    },
+    {
+      "id": 15,
+      "label": "东西",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_47823_ee30648c14d6151d7f41eb31"
+    },
+    {
+      "id": 11,
+      "label": "狗",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_15805_47cd25f6bcb3397bf4087fb8"
+    },
+    {
+      "id": 12,
+      "label": "猫",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_15806_eb072db9597af139debed01a"
+    },
+    {
+      "id": 17,
+      "label": "动物",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48815_07f2a03d3f9972a846201704"
+    },
+    {
+      "id": 18,
+      "label": "虫子",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_48863_9b2c07289fab03c01c5d11c5"
+    },
+    {
+      "id": 13,
+      "label": "工具",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "load_board": {
+        "id": "1_1317",
+        "url": "https://app.mycoughdrop.com/example/core-24-tools",
+        "data_url": "https://app.mycoughdrop.com/api/v1/boards/example/core-24-tools",
+        "path": "board_1_1317.obf"
+      },
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_15822_efb1972c4c9bd7738a5901db"
+    },
+    {
+      "id": 14,
+      "label": "材料",
+      "border_color": "rgb(255, 112, 17)",
+      "background_color": "rgb(255, 204, 170)",
+      "load_board": {
+        "id": "1_1316",
+        "url": "https://app.mycoughdrop.com/example/core-24-materials",
+        "data_url": "https://app.mycoughdrop.com/api/v1/boards/example/core-24-materials",
+        "path": "board_1_1316.obf"
+      },
+      "ext_coughdrop_part_of_speech": "noun",
+      "image_id": "1_15823_6face178941bfcc6d5f3a6ee"
+    }
+  ],
+  "grid": {
+    "rows": 4,
+    "columns": 6,
+    "order": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      [
+        7,
+        8,
+        9,
+        null,
+        null,
+        null
+      ],
+      [
+        10,
+        15,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        11,
+        12,
+        17,
+        18,
+        13,
+        14
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "1_15807_a48555536bbaacee6b9879a8",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/car.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15807_a48555536bbaacee6b9879a8",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_15807_a48555536bbaacee6b9879a8.png"
+    },
+    {
+      "id": "1_15809_a798ec36d65c99e05dd3a9a8",
+      "width": 853,
+      "height": 852,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/bus.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15809_a798ec36d65c99e05dd3a9a8",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_15809_a798ec36d65c99e05dd3a9a8.png"
+    },
+    {
+      "id": "1_15816_977a05dac2ff589782864167",
+      "width": 70,
+      "height": 70,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by/3.0/",
+        "source_url": "http://thenounproject.com/term/ship/",
+        "author_name": "Pham Thi Dieu Linh",
+        "author_url": "http://thenounproject.com/phdieuli",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/noun-project/Ship-40bc1ed70c.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15816_977a05dac2ff589782864167",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_15816_977a05dac2ff589782864167.png"
+    },
+    {
+      "id": "1_15810_57a84c1bacd0838a5245e83e",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/ocean.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15810_57a84c1bacd0838a5245e83e",
+      "content_type": "image/png",
+      "path": "images/image_1_15810_57a84c1bacd0838a5245e83e.png"
+    },
+    {
+      "id": "1_15811_104dbeaf7ac7972ff683f68d",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/lake.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15811_104dbeaf7ac7972ff683f68d",
+      "content_type": "image/png",
+      "path": "images/image_1_15811_104dbeaf7ac7972ff683f68d.png"
+    },
+    {
+      "id": "1_15817_6fd3af3bc24e5afd4ca6bfb2",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/mountain.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15817_6fd3af3bc24e5afd4ca6bfb2",
+      "content_type": "image/png",
+      "path": "images/image_1_15817_6fd3af3bc24e5afd4ca6bfb2.png"
+    },
+    {
+      "id": "1_15815_8b056fc1ad157b064d1d5c80",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/flower.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15815_8b056fc1ad157b064d1d5c80",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_15815_8b056fc1ad157b064d1d5c80.png"
+    },
+    {
+      "id": "1_15813_42891ff3bcb13526d1d0335c",
+      "width": 850,
+      "height": 850,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-sa/2.0/uk",
+        "author_name": "Paxtoncrafts Charitable Trust ",
+        "author_url": "http://straight-street.org/lic.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/mulberry/tree.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15813_42891ff3bcb13526d1d0335c",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_15813_42891ff3bcb13526d1d0335c.png"
+    },
+    {
+      "id": "1_15814_544f3c98b9910eb859c2955e",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/forest.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15814_544f3c98b9910eb859c2955e",
+      "content_type": "image/png",
+      "path": "images/image_1_15814_544f3c98b9910eb859c2955e.png"
+    },
+    {
+      "id": "1_15804_2e5649d272b94f8984869a66",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/it.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15804_2e5649d272b94f8984869a66",
+      "content_type": "image/png",
+      "path": "images/image_1_15804_2e5649d272b94f8984869a66.png"
+    },
+    {
+      "id": "1_47823_ee30648c14d6151d7f41eb31",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/living thing.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_47823_ee30648c14d6151d7f41eb31",
+      "content_type": "image/png",
+      "path": "images/image_1_47823_ee30648c14d6151d7f41eb31.png"
+    },
+    {
+      "id": "1_15805_47cd25f6bcb3397bf4087fb8",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/dog.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15805_47cd25f6bcb3397bf4087fb8",
+      "content_type": "image/png",
+      "path": "images/image_1_15805_47cd25f6bcb3397bf4087fb8.png"
+    },
+    {
+      "id": "1_15806_eb072db9597af139debed01a",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/cat.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15806_eb072db9597af139debed01a",
+      "content_type": "image/png",
+      "path": "images/image_1_15806_eb072db9597af139debed01a.png"
+    },
+    {
+      "id": "1_48815_07f2a03d3f9972a846201704",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/animal.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48815_07f2a03d3f9972a846201704",
+      "content_type": "image/png",
+      "path": "images/image_1_48815_07f2a03d3f9972a846201704.png"
+    },
+    {
+      "id": "1_48863_9b2c07289fab03c01c5d11c5",
+      "width": 77,
+      "height": 100,
+      "license": {
+        "type": "CC BY-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by/3.0/",
+        "source_url": "http://thenounproject.com/term/bug/",
+        "author_name": "Edward Boatman",
+        "author_url": "http://thenounproject.com/edward",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/noun-project/Bug-b26159e0aa.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_48863_9b2c07289fab03c01c5d11c5",
+      "content_type": "image/svg+xml",
+      "path": "images/image_1_48863_9b2c07289fab03c01c5d11c5.png"
+    },
+    {
+      "id": "1_15822_efb1972c4c9bd7738a5901db",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/use.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15822_efb1972c4c9bd7738a5901db",
+      "content_type": "image/png",
+      "path": "images/image_1_15822_efb1972c4c9bd7738a5901db.png"
+    },
+    {
+      "id": "1_15823_6face178941bfcc6d5f3a6ee",
+      "width": 250,
+      "height": 250,
+      "license": {
+        "type": "CC BY-NC-SA",
+        "copyright_notice_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "author_name": "Sergio Palao",
+        "author_url": "http://www.catedu.es/arasaac/condiciones_uso.php",
+        "uneditable": true
+      },
+      "url": "https://s3.amazonaws.com/opensymbols/libraries/arasaac/make - do - write.png",
+      "data_url": "https://app.mycoughdrop.com/api/v1/images/1_15823_6face178941bfcc6d5f3a6ee",
+      "content_type": "image/png",
+      "path": "images/image_1_15823_6face178941bfcc6d5f3a6ee.png"
+    }
+  ],
+  "sounds": [
+
+  ],
+  "id": "1_1315",
+  "locale": "zh",
+  "name": "Core 24 - it",
+  "default_layout": "landscape",
+  "url": "https://app.mycoughdrop.com/example/core-24-it",
+  "data_url": "https://app.mycoughdrop.com/api/v1/boards/example/core-24-it",
+  "description_html": "built with CoughDrop",
+  "ext_coughdrop_settings": {
+    "private": false,
+    "key": "example/core-24-it",
+    "word_suggestions": false,
+    "protected": false,
+    "home_board": null,
+    "categories": null
+  }
+}
